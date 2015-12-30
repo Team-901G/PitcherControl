@@ -23,6 +23,7 @@
 
 #include "PidLib.c"
 #include "Autonomous.c"
+#include "Localizer.c"
 
 #pragma platform(VEX)
 //COMP DUR SETTINGS
